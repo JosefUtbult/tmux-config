@@ -15,3 +15,7 @@ if command -v tmux &> /dev/null && [ -n "$PS1" ] && [[ ! "$TERM" =~ screen ]] &&
   exec tmux
 fi
 ```
+
+Start a new session, or just run `tmux`
+
+In tmux, install plugins by pressing `C-a I`
