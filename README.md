@@ -1,3 +1,8 @@
+## Requirements
+
+- `tmux`
+- `xsel`
+
 ## Setup
 
 Symlink the config files to your home directory
