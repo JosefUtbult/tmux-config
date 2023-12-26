@@ -11,6 +11,13 @@ sudo apt install tmux xsel
 
 ## Setup
 
+Download repository
+
+```bash
+git clone git@github.com:JosefUtbult/tmux-config.git --recurse-submodules
+cd tmux-config
+```
+
 Symlink the config files to your home directory
 
 ```bash
