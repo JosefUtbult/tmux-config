@@ -3,6 +3,12 @@
 - `tmux`
 - `xsel`
 
+**Ubuntu**
+
+```bash
+sudo apt install tmux xsel
+```
+
 ## Setup
 
 Symlink the config files to your home directory
