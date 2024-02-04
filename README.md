@@ -25,6 +25,4 @@ ln -s `pwd`/tmux.conf $HOME/.tmux.conf
 ln -s `pwd`/tmux $HOME/.tmux
 ```
 
-Set tmux to your default shell.
-
 In tmux, install plugins by pressing `C-a I`
