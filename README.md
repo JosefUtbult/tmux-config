@@ -6,7 +6,7 @@
 **Ubuntu**
 
 ```bash
-sudo apt install tmux xsel
+sudo apt install -y tmux xsel
 ```
 
 ## Setup
