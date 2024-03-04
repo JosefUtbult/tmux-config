@@ -14,15 +14,7 @@ sudo apt install -y tmux xsel
 Download repository
 
 ```bash
-git clone git@github.com:JosefUtbult/tmux-config.git --recurse-submodules
-cd tmux-config
-```
-
-Symlink the config files to your home directory
-
-```bash
-ln -s `pwd`/tmux.conf $HOME/.tmux.conf
-ln -s `pwd`/tmux $HOME/.tmux
+git clone --recurse-submodules git@github.com:JosefUtbult/tmux-config.git ~/.config/tmux
 ```
 
 In tmux, install plugins by pressing `C-a I`
